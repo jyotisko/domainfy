@@ -1,0 +1,6 @@
+sudo pip3 install socket
+sudo pip3 install requests
+sudo pip3 install optparse
+sudo pip3 install sys
+sudo pip3 install colorama
+sudo pip install colorama
